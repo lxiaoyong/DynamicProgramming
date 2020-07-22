@@ -9,3 +9,4 @@
 2020.7.19 | 最小花费爬楼梯 | minCostClimbingStairs.cpp | 易
 2020.7.20 | 按摩师 | masseuse.cpp | 易
 2020.7.21 | 连续数列 | MaxSubArray.cpp(rewrite) | 易
+2020.7.22 | 不同的二叉搜索树 | numTrees.cpp | 中
