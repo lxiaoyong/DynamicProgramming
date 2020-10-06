@@ -12,3 +12,4 @@
 2020.7.22 | 不同的二叉搜索树 | numTrees.cpp | 中
 2020.8.23 | 礼物的最大价值 | max_value_of_gift.cpp | 中
 2020.9.13 | 股票的最大利润 | max_profit.cpp | 中
+2020.10.6 | 秋叶收藏集 | minimum_operations.cpp |中
