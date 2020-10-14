@@ -15,3 +15,4 @@
 2020.10.6 | 秋叶收藏集 | minimum_operations.cpp |中
 2020.10.11 | 分割等和子集 | can_partition.cpp | 中
 2020.10.12 | 三角形最小路径和 | triangle_minimum_total.cpp | 中
+2020.10.14 | 最低票价 | min_cost_tickets.cpp | 中
